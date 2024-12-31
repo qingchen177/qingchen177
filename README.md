@@ -1,7 +1,6 @@
 <p align="center"><a href="https://qingchen177.github.io"><img width="100%" alt="Hello, I'm qingchen. I do open source!" src="assets/readme.png" /></a></p>
-
 <br />
-## Hi there 👋
+
 
 **I am an Algorithm Engineer from China 🇨🇳**
 
