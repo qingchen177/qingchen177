@@ -1,14 +1,9 @@
 <p align="center"><a href="https://qingchen177.github.io"><img width="100%" alt="Hello, I'm qingchen. I do open source!" src="assets/readme.png" /></a></p>
 <br />
 
-
-**I am an Algorithm Engineer from China 🇨🇳**
-
 About me
 
-- 💼 Algorithm Engineer in NanJing
-
-- ❤️ Interested in ML 、AI 、LLM 、NLP and so on
+- 💼 Algorithm Engineer
 
 - 💬 Ask me about anything [here](https://github.com/qingchen177/qingchen177/issues)
 
